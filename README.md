@@ -14,9 +14,10 @@ pip install -r conf/pip_requirements.txt
 ```
 
 ## Dataset and experiments
-
+```
 data-speaking/$CORPUS/$DATA_TAG
 exp-speaking/$DATA_TAG/$EXP_TAG
+```
 
 ## A running example
 ```
