@@ -1,8 +1,11 @@
-# An Effective Automated Speaking Assessment Approach to Mitigating Data Scarcity and Imbalanced Distribution
+# BERT Grader
 
-### Miniconda 3
-* https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+### Environment
 ```
+# Miniconda 3
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+
 # conda environment  
 conda create -n grader python==3.8.13
 conda activate grader
