@@ -1,4 +1,4 @@
-name: cefr-sp-sys-whisper
+name: bert_grader
 channels:
   - pytorch
   - anaconda
